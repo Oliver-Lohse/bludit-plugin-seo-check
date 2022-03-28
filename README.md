@@ -6,3 +6,5 @@ Die Auswertung des SEO Tests, erfolgt im Backend im Notification Panel des Dashb
 
 ## Installation
 Die Installation ist einfach erledigt. Kopieren Sie den Inhalt in einen eigenen Ordner des Pluginverzeichnis. Im Admin-Backend müssen Sie das Plugin aktivieren - das wars.
+
+https://www.cmsworkbench.de
